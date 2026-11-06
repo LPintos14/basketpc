@@ -1,5 +1,7 @@
 # BasketPC: resumen del juego
 
+Ver también [lo que dice el foro](resumen-foro.md): simulador, evolución y consejos.
+
 Resumen hecho a partir del FAQ oficial del foro, las Reglas y la guía "Primeros Pasos" (leídos en noviembre de 2026). El texto completo está en [`fuentes/faq-foro.txt`](../fuentes/faq-foro.txt).
 
 > **Falta información:** varias tablas del foro son imágenes y no se pudieron leer: requisitos para subir de nivel, premios por clasificación final, premios de Champions e Icup, sponsors por nivel, salarios por categoría y precios de taquilla por nivel.
@@ -14,7 +16,7 @@ Sos el mánager de un club. Ganás partidos, juntás plata, mejorás el pabelló
 
 ## 2. Nivel del club (lo más importante)
 
-- **Para subir de nivel** hay que cumplir cuatro requisitos: categoría de tu mejor jugador, media del equipo, aforo mínimo y parking mínimo. Se revisa en cada cambio de día.
+- **Para subir de nivel** hay que cumplir cuatro requisitos: categoría de tu mejor jugador, media del equipo, aforo mínimo y parking mínimo. Se revisa en cada cambio de día. Para el **nivel 2** hacen falta 2.000 de aforo y 100 de parking (dato de la comunidad).
 - **Qué da subir de nivel:** entradas más caras, sponsors mejores y más numerosos (pueden duplicar los del nivel anterior), más staff y más rookies.
 - **Los ingresos dependen del nivel, no de la división.**
 - Consejo oficial para empezar: **no fichar**; invertir primero en pabellón y parking.
@@ -77,7 +79,7 @@ En las copas, **los no convocados no recuperan energía**.
 - **Contratos:** máximo 5 años y no se suman (renovar 2 años deja el contrato en 2).
 - **Salarios:** jugadores, staff y empleados **cobran todos los días**.
 - **Cláusula (precio de venta):** si otro club la paga entera, no podés impedirlo; decide solo el jugador.
-- **Energía:** se gasta al jugar partidos oficiales y se recupera al no ser convocado. Los amistosos no la gastan. Jugar **fuera de posición** cansa mucho más.
+- **Energía:** se gasta al jugar partidos oficiales y se recupera al no ser convocado. Los amistosos no la gastan. Jugar **fuera de posición** baja su rendimiento (desde la temporada 20 ya no gasta energía extra, aunque el FAQ diga lo contrario). Lo que más pesa es la **diferencia** de energía con el rival: conviene tenerla pareja y alta.
 
 ## 6. Staff y entrenamiento
 
