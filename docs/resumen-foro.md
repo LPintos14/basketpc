@@ -22,6 +22,7 @@ Viene del hilo oficial "Simulador temporada 20" (noviembre de 2021), que sigue s
   - Las tácticas de ataque no se tocaron.
   - Si la diferencia de calidad es grande, la táctica no alcanza para compensarla.
 - **Moral:** está anunciada desde 2021 y todavía no está activa.
+- **Historia de la energía:** desde la temporada 9, empezar un partido por debajo de cierto umbral oculto penaliza el rendimiento de forma escalonada durante todo el partido.
 
 ## 2. Cómo evolucionan los jugadores en el reset
 
@@ -42,6 +43,9 @@ Esto aparece en el changelog de enero de 2022.
 - **Cambiar a un jugador de posición le baja la "calidad"** que se ve en su ficha.
 
 ## 3. Consejos prácticos de la comunidad
+
+La versión ordenada para empezar está en el [checklist del resumen del juego](resumen-reglas.md#0-para-empezar-checklist-de-las-primeras-semanas).
+
 
 - **Primer objetivo: nivel 2**, que pide **2.000 de aforo y 100 de parking**. Todo el dinero va a pabellón y parking.
 - **Entradas siempre al precio máximo.**
@@ -110,4 +114,5 @@ Esto aparece en el changelog de enero de 2022.
 ## 6. Lo que no se pudo leer
 
 - **La Revista BasketPC:** las entrevistas y los artículos ("El boom de los súper jugadores", "El mercado nunca duerme") están en imágenes o en video, no en texto.
-- **Tablas en imagen:** requisitos de nivel (salvo el nivel 2), premios y sponsors por nivel.
+- **Tablas en imagen:** requisitos de nivel, premios, sponsors y salarios. Las imágenes completas solo se ven con sesión iniciada en el foro; si alguien con cuenta saca capturas, se completan.
+- **Discord:** ahí está la mayor parte de la comunidad, pero esta sesión no tiene acceso.
