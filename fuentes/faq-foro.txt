@@ -1,0 +1,741 @@
+# FAQ del foro de BasketPC (texto extraído, noviembre 2026)
+# Fuente: https://forum.basketpc.com/ - subforos de FAQ
+# Nota: las tablas que en el foro son imágenes no aparecen acá.
+
+### ¿Cuántos equipos hay en una Liga y cuantas jornadas se juegan?
+Una Liga está compuesta por 8 equipos y se juegan un total de 18 partidos de Liga Regular (14 entre los equipos de tu Grupo a ida y vuelta y 4 contra equipos de otros Grupos dentro de tu misma División).
+
+### ¿Qué son las jornadas intergrupos o interzonales y cuando se juegan?
+Son las Jornadas 8, 9, 17 y 18, son en total 4 jornadas de las 18 de la que consta la Liga Regular. Se juegan contra equipos que hayan quedado en tu misma posición una vez terminen las Jornadas 7 y 16, es decir, que si por ejemplo eres 3º de tu Grupo en la jornada 7 jugarás las jornadas 8 y 9 contra dos terceros de alguno de los otros 3 Grupos de tu División (sorteo al azar), ocurrirá lo mismo con la jornada 16 y las jornadas intergrupos 17 y 18. Siempre jugarás estas jornadas contra los equipos de otros Grupos que hayan quedado en tu misma posición.
+
+### ¿Cuándo se juegan los partidos de Liga?
+Se juegan SIEMPRE los lunes, martes, jueves y viernes a las 20:00 horario peninsular español.
+
+### ¿Por qué me aparecen en blanco ciertas jornadas de Liga?
+Las jornadas de Liga 8, 9 y 17 y 18 son las jornadas intergrupos. Una vez temine la jornada 7 se generarán automáticamente las jornadas 8 y 9, del mismo modo una vez termine la jornada 16 se generarán automáticamente las jornadas 17 y 18. Hasta entonces permanecerán en blanco en el Calendario de Liga.
+Consultar: http://forum.basketpc.com/threads/¿qué-son-las-jornadas-intergrupos-o-interzonales-y-cuando-se-juegan.1757/
+
+### ¿Cuándo se juegan los Playoff y qué formato tienen?
+Los Playoff se juegan una vez hayan terminado de jugarse las 18 jornadas de la que consta la Liga Regular. Los Playoff constan de 6 partidos en total.
+FORMATO
+A) En Superliga los que acaben 1ºs y 2ºs en cada Grupo jugarán por el Playoff del 1º al 8º a dos partidos cada eliminatoria a ida y vuelta. En Primera y Segunda División los que acaben 1ºs y 2ºs en cada Conferencia ascenderán directamente y jugarán por el Playoff del 1º al 8º también a dos partidos cada eliminatoria a ida y vuelta.
+B) En Superliga los que acaben 3ºs y 4ºs en cada Grupo jugarán por el Playoff del 9º al 16º a dos partidos cada eliminatoria a ida y vuelta. En Primera y Segunda División los que acaben 3ºs y 4ºs en cada Conferencia jugarán la Ronda de 1/4 de Playoffs del 9º al 16º a dos partidos a ida y vuelta, los que ganen jugarán la Semifinal y Final a un partido cada uno y los dos siguientes partidos jugarán la Promoción de Ascenso a dos partidos a ida y vuelta contra los equipos de la División superior que promocionan por no descender.
+C) En Superliga y Primera División los que acaben 5ºs y 6ºs en cada Grupo/Conferencia jugarán la ronda de 1/4 de Playoffs del 17º al 24º a dos partidos a ida y vuelta, los que pierdan jugarán la Semifinal y Final a un partido cada uno y los dos siguientes partidos jugarán la Promoción de Descenso a dos partidos a ida y vuelta contra los equipos de la División inferior que promocionan por ascender.
+D) En Superliga y Primera División los que acaban 7ºs y 8ºs en cada Grupo/Conferencia descenderán directamente y jugarán por el Playoff del 25º al 32º a dos partidos cada eliminatoria a ida y vuelta.
+E) Tanto en el punto B como en el C los equipos que no jueguen la Promoción jugarán sus Playoffs a 2 partidos a ida y vuelta (1/4 de Final, Semifinales y Final).
+
+[respuesta] Brainscan said:
+			C) En Superliga y Primera División los que acaben 5ºs y 6ºs en cada Grupo/Conferencia jugarán la ronda de 1/4 de Playoffs del 17º al 24º a dos partidos a ida y vuelta, los que ganen jugarán la Semifinal y Final a un partido cada uno y los dos siguientes partidos jugarán la Promoción de Descenso a dos partidos a ida y vuelta contra los equipos de la División inferior que promocionan por ascender.
+[/B]
+Aquí creo que hay una errata. Los que pierden la eliminatoria de 1/4 son los que se juegan la promoción de descenso.
+
+[respuesta] Correcto corregido
+
+### ¿Qué es un Fisioterapeuta y cuántos puedo tener?
+Un Fisio es un miembro del Staff que te ayuda a recuperar la energía que tus jugadores van gastando a medida que juegan partidos y avanza la Temporada. El número de Fisios que puedes tener varía en función del Nivel de tu equipo, de este modo:
+Si tú equipo es Nivel 1: 0 Fisios.
+Si tú equipo es Nivel 2 o 3: 1 Fisio como máximo.
+Si tú equipo es Nivel 4 o 5: 2 Fisios como máximo.
+Si tú equipo es Nivel 6 o superior: 3 Fisios como máximo.
+
+### ¿Cuándo puedo recuperar la Energía de mis jugadores y a partir de cuánto cansancio?
+Podrás recuperar la energía de tus jugadores con los Fisios cada día los 7 días de la semana, es decir desde las 00:00 hasta las 23:59 de ese mismo día, las recuperaciones no son acumulativas por lo que si un día no pasas los Fisios no podrás acumular esas recuperaciones para el día siguiente, simplemente las habrás perdido. Asi que recuerda utilizar los fisios cada día para mantener lo mas alta posible la energía de tus jugadores.
+Podrás recuperar la energía de tus jugadores si estos tienen 96,00 de Energía o menos, si tienen 96,01 o mas no podrás hacerlo. Recuérdalo a la hora de planificar tus recuperaciones. Cuanta mas energía tenga un jugador mas tardará en cansarse y por tanto mejor rendimiento dará durante los partidos.
+Para mas información sobre los Fisios consulta este enlace: http://forum.basketpc.com/threads/physios-fisioterapéutas.1316/
+
+### ¿Qué significa cada stat asignado a los Fisios?
+1.- Diagnóstico
+2.- Expertise
+3.- Masaje
+4.- Planning
+5.- Capacidad
+Cada uno de esos parámetros influirá en los jugadores de tal forma que para que un jugador pueda recuperar, necesitará
+- que el diagnóstico del fisio sea mayor que la calidad del jugador
+- que el expertise del fisio sea mayor que la resistencia del jugador
+Si alguno de estos dos stats es menor entonces simplemente el jugador no recuperará nada.
+El masaje nos ayudará a recuperar más o menos puntos de energía. El stat de referencia es la resistencia por lo tanto cuanto mayor es el masaje en relación a la resistencia, más recuperará el jugador
+El planning es el número de veces que un fisioterapeuta puede recuperar en un día. Si tiene un 2, significa que un día puede recuperar 2 veces... pudiendo ser el mismo jugador u otro, no existe limitación en ese sentido.
+La capacidad son los puntos que es capaz de recuperar un fisio por día
+Un jugador puede ser recuperado tantas veces como quieras o puedas.
+
+### ¿Cuánto se cobra por taquilla en un partido de una jornada de intergrupos?
+En las jornadas de intergrupos 8, 9 y 17, 18 ambos equipos cobran el 50% del total de la taquilla, es decir se reparte a partes iguales.
+
+### ¿Cuánto se cobra en un partido de Playoff?
+En los partidos de Playoff el equipo local recauda el 100% de su taquilla.
+
+### ¿Qué es la Basketpc Cup?
+La Basketpc Cup es un Torneo abierto a partido único que lo juegan todos los equipos de Superliga, Primera y Segunda División.
+
+### ¿Cuánto se cobra por taquilla en un partido de la Basketpc Cup y cuáles son los Premios?
+Ambos equipos cobran el 50% del total de la taquilla, es decir se reparte a partes iguales.
+Por otro lado los premios que se van a repartir son los siguientes:
+Level - Campeón - Subcampeón
+Level 1 - 1.5M - 750K
+Level 2 - 1.5M - 750K
+Level 3 - 1.5M - 750K
+Level 4 - 2M - 1M
+Level 5 - 2.5M - 1.25M
+Level 6 - 4M - 2M
+Level 7 - 6M - 3M
+Level 8 - 8M - 4M
+Level 9 - 12M - 6M
+Level 10 - 15M - 7.5M
+
+### ¿Cual es el modelo de enfrentamientos de la Basketpc Cup?
+Existen 9 Rondas: la 1 y 2 corresponderán  a la Fase Previa  y de la 3 a la 9 (64avos hasta la Final) corresponden a la Fase Final.
+Fase Previa
+Ronda 1: Todos los equipos de Primera División juegan en casa contra los equipos de Segunda División.
+Ronda 2: Todos los equipos de Superliga juegan en casa contra los vencedores de la Ronda 1.
+El formato será de eliminatoria a partido único.
+Fase Final
+1/64 de Final en adelante: Se juntarán todos los ganadores de la Ronda 2, se jugarán desde los 1/64 de Final hasta la FINAL a partido único y por sorteo puro.
+
+### ¿Qué días y a qué hora se juega la Basketpc Cup?
+Los partidos de la Basketpc Cup se juegan los miércoles y sábados a las 11:00 de la mañana horario peninsular español. El Torneo empieza con la Ronda 1 el primer miércoles de la Temporada.
+
+### ¿Cuál es el gasto de energía por jugar la Basketpc Cup?
+Los jugadores que jueguen o sean convocados para jugar la Basketpc Cup gastarán LA MITAD de lo que gastarían normalmente en un partido de Liga. Así mismo los No Convocados no recuperarán energía.
+
+### ¿Qué es la Clasificación y qué mide cada posición?
+La clasificación mide tu progresión deportiva durante la temporada a través de las victorias y derrotas que obtengas en tu Liga durante la Liga Regular. Dependiendo de tu posición Final jugarás por unos objetivos concretos en los Playoff:
+- Si acabas 1º o 2º de tu Liga jugarás por las posiciones 1-8 en los Playoff.
+- Si acabas 3º o 4º de tu Liga jugarás por las posiciones 9-16 en los Playoff.
+- Si acabas 5º o 6º de tu Liga jugarás por las posiciones 17-24 en los Playoff.
+- Si acabas 7º u 8º de tu Liga jugarás por las posiciones 25-32 en los Playoff.
+
+### Qué criterios se siguen para desempatar en la Clasificación?
+En caso de empate a victorias entre dos o más equipos se recurre al Basketaverage, de tal forma que el desempate se produce de la siguiente forma:
+* Hasta la jornada 9  será el basketaverage general
+* A partir de la jornada 10 será el basketaverage particular
+- Criterio 1: Victorias, miniliguilla entre los equipos que tienen las mismas victorias.
+- Criterio 2: Puntos a favor y en contra de dicha miniliguilla.
+- Criterio 3: Si hay empates en todo lo anterior vuelta al basketaverage general.
+
+### ¿Qué es la Clasificación Final y qué premios reparte?
+La Clasificación Final es el puesto final una vez han terminado de jugarse La Liga Regular y los Playoff, los premios se reparten en base a tres variables: la primera es la posición que ocupes en tu División (la que sea), la segunda es el nivel que tenga tu equipo, a mayor nivel más cantidad económica y a mayor posición mayores premios, y la tercera es la División en la que juegues, a mayor División mejores premios.
+Aquí tienes los valores de referencia.
+Valores según Nivel:
+Valores según División y Posición:
+A modo de ejemplo, cojamos de referencia un Nivel 5 ¿Cómo quedaría en Superliga, en Primera y en Segunda?:
+
+### ¿Cómo se fichan jugadores en el Mercado?
+En el Mercado de Jugadores podrás encontrar a cualquier jugador del Juego y ofertar por ellos. Utiliza las opciones de filtrado para encontrar el jugador que más se acerque a las características que buscas, puedes también cribar la búsqueda por características como el T3, el pase, el dribbling y un largo ertcétera, sólo tienes que pinchar en la parte superior de la columna respectiva sobre la propia característica y los jugadores se ordenarán de manera creciente/decreciente por dicho stat según elijamos.
+Una vez hayamos encontrado al jugador/es que queramos fichar entramos en su ficha y seleccionamos FICHAR, se nos abrirá un desplegable con las siguientes variables:
+* Pay Price: Es nuestra oferta, el dinero que vamos a ofrecerle al equipo dueño del jugador, la oferta deberá ser como MÍNIMO la mitad de la cláusula que tenga el jugador en ese momento. Decir que si pagamos íntegramente la cláusula que tiene el jugador no habrá negociación posible con el Equipo dueño del jugador sino que automáticamente tendremos que negociar sólo con el jugador para convencerlo de que acepte la oferta contractual (Precio de Venta, Salario y Años de Contrato) que le ofrecemos para que acepte y juegue finalmente en nuestro Club.
+* Precio de Venta: Esta es la cláusula que va a tener el jugador una vez recale un nuestro equipo, dependiendo de su Categoría (H,G,F,D, etc...) podrá aceptar una más alta o más baja, cuanto mejor sea el jugador más alta podrá ser la cláusula que le ofrezcamos y que te pida para poder ficharle.
+* Salario: Este es el salario que va a tener el jugador una vez recale un nuestro equipo, dependiendo de su Categoría (H,G,F,D, etc...) podrá aceptar  una más alta o más baja, cuanto mejor sea el jugador más ficha te pedirá para poder ficharlo.
+* Años de Contrato: Son los años de contrato que va a tener el jugador una vez recale un nuestro equipo.
+Una vez hayamos seleccionado estas variables le damos a ENVIAR y nuestra oferta será enviada al equipo dueño del jugador. Ya sólo nos tocará esperar a ver qué dicen tanto el Club del jugador como el propio Jugador, para seguir estas negociaciones selecciona el Menú MERCADO -> OFERTAS y pincha en la opción ENVIADAS y podrás ver como se encuentran las ofertas en cada momento.
+
+### ¿Cómo se fichan Rookies en el Mercado y cada cuánto salen a Subasta?
+Para fichar Rookies en el Mercado vas al Menú MERCADO -> FICHAR y seleccionas la opción ROOKIES arriba a la derecha de la pantalla.
+Los Rookies salen de 1 a 3 veces por temporada y dependiendo de la ocasión podrán salir más o menos cantidad de ellos. Saldrán los sábados o domingos y estarán a Subasta una semana hasta el sábado siguiente a las 12:00 del mediodía horario peninsular español, en ese momento aceptarán la oferta más alta que hayan recibido y se irán al Club que haya hecho dicha oferta. 
+Para ofertar por un Rookie sólo tienes que darle a FICHAR dentro de su ficha, seleccionar la cantidad y darle a ENVIAR, la oferta siempre tendrá que ser superior al Precio de Venta que aparece en su ficha. Si quieres modificar o borrar una oferta hecha a un Rookie vete al Menú MERCADO -> OFERTAS y selecciona la opción ROOKIES.
+
+### ¿Cómo se fichan Entrenadores en el Mercado?
+Para fichar Entrenadores (ya sean Principales, Secundarios o de Rookies) debes ir al Menú MERCADO -> FICHAR y seleccionar la opción STAFF COACH en la parte superior derecha de la pantalla. A través del filtrado selecciona que tipo de entrenador quieres fichar y con que características, una vez encontrado entra en su ficha y selecciona la opción FICHAR, se nos abrirá un desplegable con las siguientes variables:
+* Pay Price: Es nuestra oferta que en el caso de los Entrenadores tendrá que ser íntegramente igual a la cláusula que tengan en ese momento para poder ficharlos, ya que no se puede negociar por ellos ni regatear.
+* Precio de Venta: Esta es la cláusula que va a tener el Entrenador una vez recale un nuestro equipo, dependiendo de su Categoría (H,G,F,D, etc...) podrá aceptar una más alta o más baja, cuanto mejor sea el Entrenador más alta podrá ser la cláusula que le ofrezcamos.
+* Salario: Este es el salario que va a tener el Entrenador una vez recale un nuestro equipo.
+* Años de Contrato: Son los años de contrato que va a tener el Entrenador una vez recale un nuestro equipo.
+Una vez hayamos seleccionado estas variables le damos a ENVIAR y si las cantidades se ajustan a lo que el Entrenador aceptaría el fichaje se producirá automáticamente y lo tendremos en nuestro Equipo.
+
+### ¿Cómo se fichan Fisioterapéutas en el Mercado?
+Para fichar Fisios en el Mercado debes ir al Menú MERCADO -> FICHAR y seleccionar la opción FISIOS en la parte superior derecha de la pantalla. A través del filtrado selecciona que tipo de Fisio quieres fichar y con que características, una vez encontrado entra en su ficha y selecciona la opción FICHAR, se nos abrirá un desplegable con las siguientes variables:
+* Salario: Este es el salario que va a tener el Entrenador una vez recale un nuestro equipo.
+* Años de Contrato: Son los años de contrato que va a tener el Entrenador una vez recale un nuestro equipo.
+Una vez hayamos seleccionado estas variables le damos a ENVIAR y si las cantidades se ajustan a lo que el Fisio aceptaría el fichaje se producirá automáticamente y lo tendremos en nuestro Equipo.
+
+### ¿Qué son las Ofertas recibidas?
+Para ver las Ofertas recibidas ve al Menú MERCADO -> OFERTAS y selecciona la opción RECIBIDAS en la parte superior derecha de la pantalla.
+Las Ofertas recibidas son las ofertas que recibes de otros Clubs por alguno de los tus jugadores, cuando eso ocurra podrás aceptar o rechazar la oferta económica recibida (siempre y cuando no sea un clausulazo) y ver también si tu jugador acepta o rechaza la oferta que el otro Club le hace (solo ver si acepta o rechaza la oferta, no podrás ver qué salario, cláusula y años de contrato le ofrece).
+P.D: Aunque tú jugador acepte la oferta de otro Club sólo podrá irse si tú aceptas la oferta económica que te hace ese Club por tu jugador, solo en el caso de un clausulazo (el otro Club paga íntegramente la cláusula del jugador) la decisión dependerá exclusivamente del jugador.
+
+### ¿Qué son las Ofertas enviadas?
+Para ver las Ofertas enviadas ve al Menú MERCADO -> OFERTAS y selecciona la opción ENVIADAS en la parte superior derecha de la pantalla.
+Las Ofertas enviadas son las ofertas que haces a otros Clubs por alguno de sus jugadores, cuando eso ocurra podrás ver si el otro Club acepta o rechaza la oferta que has hecho y si el jugador por el que ofertas acepta o rechaza tus condiciones (salario, cláusula y años de contrato). En caso de rechazarlas podrás contraofertar para seguir negociando.
+P.D: Aunque el jugador acepte la oferta que le hagas sólo podrá irse a tu Club si el Club dueño del jugador acepta la oferta económica que le haces por el jugador, solo en el caso de un clausulazo (pagas íntegramente la cláusula del jugador) la decisión dependerá exclusivamente del jugador.
+
+### ¿Qué son las Ofertas de rookies?
+Para ver las Ofertas de Rookies ve al Menú MERCADO -> OFERTAS y selecciona la opción ROOKIES en la parte superior derecha de la pantalla.
+Las Ofertas de Rookies son las ofertas que realizas a algún rookie durante la semana que dure la Subasta de este tipo de jugadores. Dependiendo de tu Nivel de equipo podrás realizar un número limitado de ofertas por rookies y estas aparecerán en este apartado de Ofertas. Una vez realizadas podrás modificarlas o borrarlas si así lo deseas.
+
+### ¿Qué son las Ofertas de renovación?
+Para ver las Ofertas de renovación ve al Menú MERCADO -> OFERTAS y selecciona la opción RENOVACIÓN en la parte superior derecha de la pantalla.
+Las Ofertas de renovación son las ofertas que realizas a tus propios jugadores para renovarles el contrato que tienen. Dentro de este apartado de renovación podrás ver si los jugadores aceptan o no tus condiciones y si no lo hacen podrás contraofertar ya que ellos mismos te pedirán ciertas cantidades de salario, cláusula y años de contrato. También tendrás la opción de eliminar cualquier oferta de renovación que les hagas (antes de que la acepten claro está) si así lo deseas.
+
+### ¿Qué es la Lista de Traspasos?
+Para ver la Lista de Traspasos ve al Menú MERCADO -> TRASPASOS.
+La Lista de Traspasos es la lista completa de las últimas compra/ventas de Jugadores realizadas en BasketPC. Aparecen el equipo vendedor, el comprador, el propio jugador transferido, la cantidad por la que se ha vendido y la fecha en que se realizó la oferta (que a menudo coincide con el día en que el jugador se vende pero otras es unos días después). También existe la opción de Denunciar la operación si aprecias que se está cometiendo algún tipo de irregularidad, en este caso pinchando en la opción indicada podrás denunciar el caso y a través de un pequeño comentario de texto explicar y describir de la mejor manera posible que irregularidades aprecias en la operación, para que el Tribunal de BasketPC pueda atender el caso y tomar cartas en el asunto llegado el momento.
+
+### ¿Qué es la Cartera de Jugadores?
+Para ver la Cartera de Jugadores ve al Menú MERCADO -> CARTERA.
+La Cartera de Jugadores es una opción para los usuarios Supporter que permite seguir a todos aquellos jugadores que te interesan, ver como evolucionan y si tienes la oportunidad de ficharlos, básicamente es una lista única y personal con todos aquellos jugadores por los que tienes un especial interés. Para añadir un jugador a tu Cartera tienes que acceder a la ficha del jugador en cuestión y seleccionar la opción "AÑADIR A CARTERA" que encontrarás en la parte derecha de su ficha, bajo la equipación y el nombre del equipo.
+
+### ¿Qué es el Banco?
+En el Banco puedes consultar tanto tu saldo (el dinero que dispones para tu equipo) como los últimos movimientos económicos que has hecho, tanto los ingresos como los gastos. Existen 2 posibles visualizaciones:
+DETALLE: En dos columnas (Ingresos y Gastos) se detallan pormenorizadamente tus movimientos económicos de la última semana.
+RESUMEN:  A modo de resumen se reflejan genéricamente tus Ingresos/Gastos de la última semana.
+
+### ¿Qué son los Sponsor?
+Los Sponsors son beneficios en forma de ingresos extra (dinero) que recibirás cada vez que cumplas con las condiciones que los propios Sponsors te pidan, los hay de 5 tipos: Televisión, Principal, Camiseta, Premium y Regional.
+TELEVISIÓN: Te da una cantidad fija + una cantidad por partido oficial jugado (Liga).
+PRINCIPAL:  Te da una cantidad fija + una cantidad por partido oficial ganado (Liga).
+CAMISETA: Te da una cantidad fija + una cantidad por partido oficial jugado (Liga).
+PREMIUM: Te da una cantidad por partido amistoso jugado + una cantidad por partido oficial jugado (Liga).
+REGIONAL:  Te da una cantidad por partido amistoso jugado.
+Todos los Sponsors tienen una Duración determinada después de la cual caducarán y desaparecerán por lo que dejarás de ingresar sus cantidades correspondientes. De este modo es importante que regularmente los vayas sustiyendo por otros con mayor Duración para que nunca te quedes sin sponsors activos en ninguna categoría.
+
+### ¿Cuántos Sponsors puedo tener de cada tipo?
+Según el Nivel que tenga tu equipo podrás tener mas y mejores sponsors llegando las cantidades incluso a doblar las del nivel anterior, por lo que cuanto mejor sea tu Nivel mayores serán tus ingresos por Sponsor. De este modo el número máximo de sponsors por tipo y Nivel que puedes tener son los siguientes:
+
+### ¿Cuánto cuesta cancelar un Sponsors?
+Cancelar un Sponsor tiene un coste, SIEMPRE será inferior a la cantidad Fija que ya cobres por él (de hecho será vez más baja a medida que se acerqué a su caducidad), salvo los Sponsors Premium y Regional que como no tienen ingresos por cantidad Fija el cancelarlos saldrá gratis.
+
+### ¿Cada cuánto salen Sponsors?
+Sólo durante el Reset es seguro que te llegará una tanda de Sponsors, durante el resto de la Temporada saldrán de manera aleatoria asi que tienes que estar atento para aceptarlos si te convienen llegado el momento.
+
+[respuesta] Buenas
+Esto sigue vigente?
+Suele llegar alguno?
+
+[respuesta] Por el momento siguen saliendo algunos durante la temporada.
+
+### ¿Qué es el Aforo y el Parking de mi Pabellón?
+El Aforo son la cantidad de asientos que tienes en tu Pabellón y el Parking es la cantidad de aparcamientos. A medida que vas subiendo de Nivel necesitarás más aforo y parking para cumplir los requisitos, además cuanto mas aforo tengas más dinero recaudarás por taquilla.
+Para conocer qué requisitos de Aforo y Parking necesitas para subir de Nivel consulta este enlace: http://forum.basketpc.com/threads/¿cómo-subo-de-nivel.483/
+
+[respuesta] Hola buenas una consulta ¿De que depende la cantidad de personas que vengan a los partidos?  Porque no consigo llenar el pabellón o alcanzar un 85 o mayor porcentaje de asistencia
+
+[respuesta] hola  tu posicion en liga  si  estas  primero  llenaras (  o  casi )   si  estas  ultimo o casi ultimo pocas  personas  asistiran a tu partido
+
+### ¿Qué son y como se ganan/pierden los Socios que vienen reflejados en mi Pabellón?
+1.-¿Qué es un socio?
+Un socio o supporter es una "persona" virtual que decide asociarse a tu club, a través del pago de una cuota económica por la duración de la temporada en curso.
+A cambio, dicho socio  tendrá algunos beneficios en tu club. Estos beneficios, desde el punto de vista del socio y a día de hoy se resumen en uno
+-  Cuando se abran las taquillas tendrá un día preferente de compra de dicha entrada. El pago de dicha entrada será integro, por lo que el socio se asegura de tener una entrada si así lo desea.
+Para el club es un ingreso extra, ya que recibirá el dinero de las taquillas normales y una cuota por temporada de socios.
+2.- ¿En qué consisten esas cuotas?
+Dependiendo del nivel de tu club, las cuotas a pagar por cada socio será fijo y atendiendo a esta lista:
+- Nivel 1-2-3 : Cuota de 300 €
+- Nivel 4: Cuota de 400€
+- Nivel 5: Cuota de 500€
+- .....
+- Nivel 9: Cuota de 900 €
+- Nivel 10 : Cuota de 1000 €
+Si al inicio de una temporada, tu club es de nivel 5 y tienes 3.000 socios.... recibirás un pago de 500 (por ser nivel 5) x 3000 = 1.5M
+Si durante la temporada pierdes socios, tendrás que devolver su cuota integra  y si recibes nuevos socios recibirás su cuota integra.
+Ejemplo: Si un día siendo nivel 5 pierdes 10 socios.... devolverás 500x10 = 5k, pero si ganas 20, recibirás 10k
+3.- ¿Cómo se ganan y se pierden socios?
+Los socios se ganan en distintos momentos de la temporada. El más importante es el inicio de la temporada (en el reset). Dependiendo de la categoría en la que milites, tendrás más socios o menos. También influirá el pabellón que poseas. De esta forma y a modo de ejemplo, un equipo de nivel 5, con pabellón 10.000 podría tener unos datos aproximados (para que nos hagamos una idea), de
+- Superliga = 3200 socios = 1.6M
+- Primera = 1500 socios =  750k
+- Segunda y tercera = 800 socios =400k
+En función de la división donde se encuentre también se retendrá de manera automática un % de socios
+- 10% de socios actuales en SL
+- 5% de socios actuales en primera
+- 0% de socios en resto de divisiones
+Un equipo que termine en SL con 4.000 socios, tendrá además de los 3200 iniciales, 400 más por retención 
+Además del reset, se incluyen premios de retención de socios por posición. De esta forma el que según la posición tendríamos
+- 1º = 15% de retención de socios
+- 2º = 14% de retención de socios
+- .....
+- 14º = 2 % de retención de socios
+- 15º = 1% de retención de socios
+- 16º = 0% de retención de socios
+Esta retención de socios será sobre los socios finales con los que termine un club la temporada. Si termina con 4000 socios y queda 1º, comenzará la siguiente temporada si está en SL y según datos de ejemplo con
+3200 por superliga + 600 (15% de 4000) por posición. + 400 (10% de 4000 por estar en Sl) = 4200 socios.
+Esta "retención de socios por posición" se dará en el mismo formato que los premios, y habría que canjearlos en su sección correspondiente.
+Diariamente En el cambio de día tu masa social puede variar en función de la división que limites y del nivel de tu equipo. Cada división tiene un nivel de equipo asociado, que variará en cada temporada y que viene a determinar el nivel que debería tener un equipo en cada división. Por ejemplo en Superliga el nivel lo determinará el equipo que más nivel tenga en la categoría, de tal forma que en Superliga nadie perderá socios pero si puede ser que entre temporadas se ganen dichos socios  a mayor o menor velocidad.
+En el resto de divisiones se determina el nivel en función de los equipos que lo militan, siendo en primera más exigente que en segunda.
+¿qué significa esto?, significa que si mi equipo de nivel 2 está en superliga donde hay equipos a nivel 4, ganará socios un poco más rápido que los equipos de Nivel 4. Si mi equipo de Nivel 4, está en segunda división, significa que aunque pueda ganar algunos socios, también es más probable que pierdas.
+Sólo perderás socios diariamente si estás en una categoría sensiblemente inferior de la que te pertenece. ¿Será público ese número "que te pertnece"? No, por lo que cuanto más arriba esteis, siempre será mejor.
+Por victorias en liga
+Para finalizar, cada victoria en Liga os proporcionará nuevos socios. Estos nuevos socios, nuevamente vendrán determinados por el nivel de tu equipo y la división que limites. De esta forma un nivel 4 en segunda ... podría ganar no más de 5, 6 socios en un partido (o perder), pero un nivel 2 en Superliga podría ganar más de 30 socios por partido.
+Por eventos
+En los eventos que se puedan ir desarollando durante el año, se pueden ganar socios, con sus correspondientes cuotas.
+4.- ¿Influyen los socios en la taquilla
+Sí influyen. Se ha introducido una pequeña corrección para que los socios sean "más fieles" aún estando en posiciones en la tabla más desfavorecidas
+Parece complejo, pero una vez el sistema ese funcionando se hace muy llevadero/entendible. Creemos que por un lado fomentará la autocompetitividad con uno mismo y nos permite ir metiendo algunas variables que complementan el ecosistema de basketpc.
+
+### ¿Para qué sirve el Gimnasio de mi Pabellón?
+El Gimnasio aumenta el % en el entrenamiento diario de tus jugadores con el entrenador principal/secundario, el entrenamiento de los rookies no se ve afectado. El % de subida será aproximadamente el siguiente:
+POOR: Aumenta un 20% el entrenamiento diario.
+MEDIUM: Aumenta un 40% el entrenamiento diario.
+HIGH: Aumenta un 60% el entrenamiento diario.
+
+### ¿Para qué sirven los Focos de mi Pabellón?
+Los Focos no están activos, (aunque lo estarán), asi que de momento da igual cuantos tengas. Más adelante cuando se activen se especificará su funcionamiento en esta sección.
+
+[respuesta] ¿Están ya activos? Y, si lo están, ¿Cuál es su utilidad?
+
+[respuesta] no  estan  activos   utiliza la pasta  en otra  cosa  agrandar estadio o parking  seria lo mejor saludos
+
+### ¿A qué precios debo poner mis Entradas?
+Depende del rival al que te vas a enfrentar y de tu posición en Liga, además del Nivel de ambos equipos (por ejemplo cuando un Nivel 4 se enfrente en casa a un Nivel 5 llenará mas, pero si fuese al revés llenaría menos), dependiendo de estos factores vendrá más o menos gente al Pabellón a ver el partido. En cualquier caso por lo general es mejor tenerlas en un rango de precios alto.
+
+[respuesta] Hola buenas mira tengo que subir el precio de las entradas para poder subir de nivel pero no me deja, supuestamente para subir a nivel 3 tengo que tener las entradas a 120,180 y 240 respectivamente y no me deja. ¿ Como hago? Desde ya muchas gracias
+
+[respuesta] No te lies, eso no es un requisito, es el precio al que podras poner las entradas cuando seas nivel 3
+
+### ¿A qué hora se juegan los partidos Amistosos y cómo los solicito a otro equipo?
+Los partidos amistosos se juegan los miércoles y sábados a las 16:00 hora peninsular española. Para solicitar un partido amistoso a otro equipo dirígete a ese equipo y en las opciones del margen superior de la pantalla verás una que pone AMISTOSO, pincha sobre esa opción y solicita un amistoso para un día que ambos tengais libre, en cuanto acepte tu solicitud el amistoso estará confirmado.
+
+### ¿Los partidos Amistosos restan energía?
+No, los partidos amistosos no quitan energía de los jugadores que los jueguen o sean convocados, pero los jugadores sí se cansan durante el partido asi que su rendimiento se verá afectado por la energía que tengan en cada momento tal y como lo harían en un partido oficial. Además son partidos que cuentan para las estadísticas individuales y de equipo.
+
+### ¿Ingreso dinero por jugar un partido Amistoso?
+Sí, los sponsors de Regional y Premium dan una cantidad fija por partido amistoso jugado y esa es la cantidad que ingresarás cada vez que juegues uno.
+
+### ¿Qué son los Quintetos y cómo se confeccionan para el partido?
+los Quintetos son el apartado del juego donde podrás seleccionar a los jugadores que cada cuarto saltarán a la cancha a jugar el partido asi como los suplentes que esperarán en el banquillo.
+Para cambiar un jugador por otro solo tienes que pinchar sobre uno y después sobre el otro, así intercambiarán sus posiciones. Sin embargo a la hora de realizar una sustitución por faltas o por minutos debes PRIMERO seleccionar al jugador que está en cancha, luego seleccionar por cuantas faltas o en qué minuto quieres que salga y DESPUÉS seleccionar al jugador del banquillo por el que saldrá el titular, por este orden ya que si lo haces al revés el cambio no tendrá efecto. No hay límite de cambios asi que puedes hacer tantas sustituciones por faltas y minutos como desees.
+Ten cuidado al colocar a tus jugadores porque si hay alguno jugando fuera de su posición este perderá energía rápidamente durante el encuentro y se cansará por tanto mucho más rápidamente (mas cuánto más tiempo y mas alejado de su posición natural esté jugando), esto incluye también los casos de jugadores que por eliminación de faltas de sus compañeros entrán a la cancha sustituyéndolos en una posición que no es la suya.
+
+### ¿Qué son las Tácticas y cómo se confeccionan para el partido?
+Lás Tácticas como su propio nombre indica son las tácticas tanto defensivas como ofensivas que podrás seleccionar para el siguiente partido de tu equipo, ambos tipos se seleccionan al mismo tiempo y para guardarlas para el partido debes completar TODOS los campos indicados tanto para el ataque como para la defensa, luego en la parte inferior de la pantalla debes pinchar en GUARDAR TÁCTICA para que quede activada para el partido. Si después quieres editarla o borrarla tienes esa opción al final de cada Táctica guardada en las columnas de Editar y Borrar (esta última simbolizada con una Pepelera). A continuación pasamos a explicar que significa cada categoría de las tácticas y cómo afecta al juego:
+Condiciones
+Por Defecto: Esta condición es con la que por defecto siempre empezarás el cuarto, solo podrás utilizar una por cuarto.
+Tiempo: Esta condición sirve para que puedas poner diferentes tácticas por minutos en diferentes momentos del cuarto, puedes poner tantas tácticas por tiempo como quieras siempre y cuando los minutos de cada una no se pisen unas a otras.
+Parcial: Dependiendo de por cuantos puntos la programes esta condición entrará en juego cuando encajes un parcial en contra por los puntos seleccionados.
+Diferencia de Puntos: Dependiendo de por cuantos puntos la programes esta condición entrará en juego cuando la diferencia de puntos en contra sea igual o mayor a los puntos seleccionados.
+Tipo de Defensas
+Individual: Es un marcaje encaminado a ser mas un hombre al hombre y más presionante, tiene como contrapartida que cansa mas a tus jugadores debido a la exigencia física que implica.
+3-2: Es una defensa zonal que hace que tres jugadores (tus tres exteriores) juegen en una posición más adelantada y los otros dos (tus dos interiores) lo hagan en una más retrasada.
+2-3: Es una defensa zonal que hace que dos jugadores (tu Base y Escolata) juegen en una posición más adelantada y los otros tres (Alero, Ala-Pivot y Pivot) lo hagan en una más retrasada.
+1-3-1: Es una defensa que cubre más el poste alto y el centro de la zona, con el BAS como jugador más adelantado y un interior en la más retrasada cubriendo la zona interior bajo canasta.
+Estrategias Defensivas
+Abierta: Es una estrategia que presiona más el tiro exterior y la línea de 3 puntos del rival y menos el interior.
+Balanceada: Es una estrategia intermedia que presiona por igual el juego exterior e interior.
+Cerrada: Es una estrategia que presiona más el juego interior y zonal del rival y menos el exterior.
+Sube Balón
+Como su nombre indica con esta opción decides quién sube el balón de tu equipo al comienzo del ataque: 1 (el Base), 1-2 (el Base y el Escolta), o Cualquiera (es decir que cualquier jugador podrá subir el balón indistintamente llegado el momento).
+Preferencia Tiros
+Balanceada: Se buscan realizar tiros tanto exteriores como interiores indistintamente.
+Tiros de 3: Se buscan realizar más tiros de 3 puntos que de cualquier otro tipo.
+Media Distancia: Se buscan realizar más tiros de media distancia (poste alto) que de cualquier otro tipo.
+Cerca del Aro: Se buscan realizar más tiros cerca del aro (zonales) que de cualquier otro tipo.
+Tiradores
+Balanceada: Se buscan que tiren todos los jugadores indistintamente.
+Interiores: Se busca que tiren más los interiores (Ala-Pivot y Pivot) que cualquier otro jugador.
+Exteriores: Se busca que tiren más los exteriores (Base, Escolta y Alero) que cualquier otro jugador.
+1: El juego de ataque se concentra sobretodo en el Base.
+2: El juego de ataque se concentra sobretodo en el Escolta.
+3: El juego de ataque se concentra sobretodo en el Alero.
+4: El juego de ataque se concentra sobretodo en el Ala-Pivot.
+5: El juego de ataque se concentra sobretodo en el Pivot.
+Tempo
+Correr y tirar: Se realizan posesiones de ataque más cortas y se realizan más tiros, pero el desgaste físico es mayor y los jugadores se cansan antes.
+Normal: El ritmo es intermedio tanto en lo que respecta a las posesiones como al cansancio.
+Lento: Se realizan posesiones de ataque más largas y se realizan menos tiros que con otros ritmos de juego, pero el desgaste físico es más lento y los jugadores tardan más en cansarse.
+Game of Season
+Dentro del Menú de Tácticas arriba a la derecha aparece la opción GENERAL, al pinchar nos lleva a "Game of Season", de momento esta variable no está activa asi que da igual lo que se marque. Más adelante cuando se active se especificará su funcionamiento en esta sección.
+
+### ¿Cuántas veces salen rookies a Subasta durante la Temporada?
+Salen de 1 a 3 veces por temporada y la cantidad de rookies en cada "hornada" puede variar de una a otra.
+
+### ¿Qué es un Fisioterapeuta y cuántos puedo tener?
+Un Fisio es un miembro del Staff que te ayuda a recuperar la energía que tus jugadores van gastando a medida que juegan partidos y avanza la Temporada. El número de Fisios que puedes tener varía en función del Nivel de tu equipo, de este modo:
+Si tú equipo es Nivel 1: 0 Fisios.
+Si tú equipo es Nivel 2 o 3: 1 Fisio como máximo.
+Si tú equipo es Nivel 4 o 5: 2 Fisios como máximo.
+Si tú equipo es Nivel 6 o superior: 3 Fisios como máximo.
+Para mas información sobre los Fisios consulta este enlace: http://forum.basketpc.com/threads/physios-fisioterapéutas.1316/
+
+### ¿Qué son los Rookies comprados por uno mismo y cómo los ficho?
+En la sección de MERCADO--> ROOKIE podrás ver 2 opciones. Subasta  y Comprar Rookies:
+La sección de Subasta es la opción que hemos tenido hasta ahora, no cambia, sigue igual con rookies que van saliendo cada X tiempo y donde los sábados deciden irse al equipo que mayor puja haya realizado por ellos.
+La sección de COMPRAR ROOKIES es una nueva sección donde vamos a poder comprar un rookie sin necesidad de entrar en subasta con nadie. Tiene la ventaja que vas a adquirir un rookie seguro, pero tiene algunos inconvenientes que es bueno que sepas:
+1.- Sólo puedes contratar un rookie por temporada si tienes hueco en tu "plantilla de rookies"
+2.- Si no eres supporter sólo puedes hacer una búsqueda por temporada, pero si eres supporter podrás realizar 2 búsquedas... aunque seas supporter o no, sólo podrás contratar uno.
+3.- Estos rookies son sensiblemente MÁS CAROS que si lo coges por subasta, tanto en su precio inicial como en el entrenamiento.
+4.- No puedes elegir el rookie, según altura, stats, si es más guapo o es más feo... si buscas te aparece uno.. sino te gusta tendrás que esperar al reset para poder buscar otro.
+5.- Puedes pensar si lo fichas o no, pero cuidado que en el cambio de día, si no lo has fichado... desaparecerán de tu lista y tendrás que esperar al cambio de temporada para buscar otro.
+Un rookie amateur tiene un precio de salida de 100k  en la subasta y 500 de entrenamiento. Si te decides por esta opción, el rookie tiene un precio de 500k (único pago) y un coste de entrenamiento de 5k.
+Con el resto de rookies ocurre igual (más caros), pagas por la seguridad de tener un rookie pero mucho más caro que si entras en subasta.
+Y recuerda: todos los equipos tienen 1 búsqueda por Temporada, SOLO los que sean usuarios Supporter tendrán la opción de 2 búsquedas por Temporada (Tienes que ser Supporter en el cambio de  Temporada para tener la opción de 2 búsquedas), pero recuerda también que SÓLO PODRÁS FICHAR UNO por Temporada.
+
+### ¿Cuántos jugadores puede entrenar un Entrenador Secundario?
+Estos entrenadores están disponibles a partir del nivel 5 y permiten realizar un entrenamiento específico a un jugador de la plantilla, aumentando el crecimiento de sus stats.
+Todo aquel que sea nivel 5 y tenga un entrenador secundario, tendrá operativa la opción dentro del entrenamiento de "Secondary coachs".
+Podrá selecccionar el entrenador secundario de todos los disponibles. Con eso será suficiente para tener al jugador con ese entrenador específico.
+Se recuerda que ese entrenador sólo podrá entrenar a un jugador por día, a excepción de los premios (apply award) que se podrán gastar mientras haya "crédito".
+Si te quedan 7 entrenamientos gratis y quieres entrenar 7 jugadores distintos, con el entrenador secundario, tendrás que seleccionarlo en el jugador correspondiente, seleccionar lo que quieres entrenar y aplicar el entreno. A continuación podrás ir a otro jugador y realizar la misma operación.
+
+### ¿Cómo funciona la competición?
+Existe una Liga Regular y unos Playoffs.
+Liga Regular
+La liga regular consta de 18 partidos, en cada grupo hay 8 equipos y existen 4 jornadas en "blanco" al inicio de la Temporada que faltan y que se generarán al finalizar la jornada inmediatamente anterior:
+En el ejemplo anterior al finalizar la jornada 16 se generarán la 17 y 18. Las otras dos jornadas en "blanco" al comenzar la Liga son las jornadas 8 y 9 que se generarán por tanto cuando acabe la jornada 7. De este modo si por ejemplo al finalizar la jornada 7 estás 1º en la clasificación jugarás las jornadas 8 y 9 contra dos primeros de alguno de los otros 3 Grupos de tu División (por sorteo al azar). Ocurrirá lo mismo en las citadas jornadas 17 y 18, es decir en las 4 jornadas en "blanco" que aparecen al comienzo de la Liga.
+Playoffs
+Los cruces de Playoffs se dividen en 4 partes: Del 1º al 8º, del 9º al 16º, del 17º al 24º y del 25º al 32º.
+Los dos primeros de cada grupo entran a jugar del 1º al 8º
+El tercero y cuarto de cada grupo jugarían del 9º al 16º
+El quinto y sexto de cada grupo juegan del 17º al 24º
+Los dos últimos de cada grupo juegan del 25º al 32º
+Más información sobre los Playoff: http://forum.basketpc.com/threads/¿cuándo-se-juegan-los-playoff-y-qué-formato-tienen.1760/
+Ascensos y descensos
+- Descensos en Superliga.
+- Bajan 32 equipos (8 por País, los dos últimos de cada Grupo) y Promocionan 16 equipos (4 por País, los perdedores del primer PO por el 5º y 6º puesto).
+- Ascensos a Superliga
+- Suben 32 equipos (8 por País, los dos primeros de cada Grupo de 1ª División) y Promocionan 16 equipos (4 por País, los ganadores del primer PO por el 3º y 4º puesto en 1ª División).
+- Descensos en 1ª División
+- Bajan 32 equipos (8 por País, los dos últimos de cada Grupo) y Promocionan 16 equipos (4 por País, los perdedores del primer PO por el 5º y 6º puesto).
+- Ascensos a 1ª Divisón
+- Suben 32 equipos (8 por País, los dos primeros de cada Grupo de 2ª División) y Promocionan 16 equipos (4 por País, los ganadores del primer PO por el 3º y 4º puesto en 2ª División).
+
+### ¿Cómo me clasifico para Jugar la Champions League?
+A la competición se accede quedando entre los 4 primeros en los Playoffs nacionales de Superliga, es decir, quedando primero o segundo de tu Grupo en Liga Regular y ganando el primer cruce de 1/4 de Final en los Playoff.
+
+### ¿Cuánto se cobra en un partido de Champions League?
+Cada equipo recauda directamente el 100% de su propia taquilla cuando juega en casa. Salvo la Ronda Clasificatoria de segundos vs terceros, los Cuartos de Final, las Semifinales y la Final donde al ser a partido único se reparte al 50%.
+
+### ¿Cuáles son los premios que da la Champions League?
+Depende del Nivel de tu equipo, y se dan por ser Campeón y Subcampeón de la Competición del siguiente modo:
+
+### ¿Cuánta Energía se gasta en la Champions League?
+Se gasta la misma que en Copa, es decir, la mitad de la que se gasta en LIga y los no convocados no recuperan EF.
+
+### ¿Cuándo se juega la Champions League?
+Se juegan los miércoles y sábados a las 20:00 horario peninsular español. La competición comienza el primer miércoles de la Temporada.
+
+### ¿Cómo funciona la competición de la Champions League?
+A la competición se accede quedando entre los 4 primeros en los playoffs nacionales.
+La competición se divide en 4 Grupos de 4 equipos cada uno. Cada Grupo estará compuesto por el primero de un país, el segundo de otro país, el tercero de otro y el cuarto del último país.
+Cada equipo de cada Grupo juega 7 partidos. 3 contra los de su propio Grupo y contra los 4 del otro. El Grupo A se cruza con el B y el Grupo C con el D. Los que hayan quedado primeros o segundos en las ligas nacionales jugarán 4 partidos en casa y los que hayan quedado terceros o cuartos 3. La taquilla no se repartirá, sino que será 100% para el equipo de casa.
+Los Campeones de Grupo se clasifican directamente para 1/4 de Final y los segundos y terceros jugarán una Ronda Clasificatoria a un partido para determinar quién pasa a 1/4 de Final. Los enfrentamientos serán de la siguiente forma: Los segundos del grupo A y B jugarán un partido contra los terceros del grupo C y D, del mismo modo los segundos del grupo C y D jugarán contra los terceros del grupo A y B (sorteo). La taquilla se repartirá al 50%.
+Los ganadores pasarán a jugar contra los que hayan quedado Campeones de sus respectivos Grupos con anterioridad completando así los 1/4 de Final. Es importante remarcar que los Campeones de Grupo jugarán en su pabellón contra los clasificados de la Ronda Clasificatoria y la taquilla se repartirá al 50%
+Los ganadores jugarán la Semifinal (sorteo) y Final a un partido también cada uno y la taquilla se repartirá al 50%.
+Los Trofeos para el Campeón y Subcampeón:
+Los Premios serán al igual que en otras competiciones, dependientes del Nivel:
+El gasto de energía será igual que en la BPCCup, es decir, la mitad que en liga y los que descansan no recuperan.
+El calendario será miércoles y sábados a las 20:00 horas. Comenzaría el primer miércoles de competición.
+
+[respuesta] Buenos días, no he encontrado que se explique en ningún sitio como funciona la clasificación de la liguilla en caso de empate a victorias entre 2 o más equipos.  Por lo que parece, ahora en caso de empate a victorias se tiene en cuenta el BA general y no el particular. Es así? 
+Creo que sería más justo y real que en caso de empate a victorias entre dos equipos prevalezca el resultado del partido que enfrentó a los dos equipos, y en caso de que hayan más equipos involucrados, sea una clasificación entre los partidos disputados entre los equipos en cuestión.
+Saludos,
+
+[respuesta] De momento será por BA general pero ya se están estudiando posibles alternativas para el futuro, entre ellas la que comentas.
+
+### ¿Cómo me clasifico para jugar la Icup?
+A esta competición se accede de la siguiente forma:
+- Los que hayan quedado en la posición 5º,6º,7º,8º,9º y 10º en los Playoffs Nacionales entran directamente en la Ronda de 16 avos.
+- Los que hayan quedado en la posición 11º,12º,13º,14º en los Playoffs Nacionales entrarán en la Ronda 1 o Ronda Previa.
+La Ronda 1 enfrentará a los que hayan quedado en la posición 11º contra los que hayan quedado en la posición 14º, del mismo modo los de la posición 12º jugarán contra los que hayan quedado en la posición 13º. Este sorteo será puro, por lo que por ejemplo si has quedado en la posición 11º te podrá tocar cualquiera que haya quedado en el puesto 14º.
+
+### ¿Cuánto se cobra en un partido de Icup?
+En aquellas eliminatorias a doble partido la taquilla será del 100% para el equipo que juegue en casa, sin embargo en aquellas donde se juegue a partido único (Ronda 1 y Final) se repartirá la taquilla al 50%.
+
+### ¿Cuáles son los premios que da la Icup?
+Depende del Nivel de tu equipo, y se dan por ser Campeón y Subcampeón de la Competición del siguiente modo:
+
+### ¿Cuánta energía se gasta en la Icup?
+Se gasta la misma que en Copa, es decir, la mitad de la que se gasta en LIga y los no convocados no recuperan EF.
+
+### ¿Cuándo se juega la Icup?
+Se juegan los miércoles y sábados a las 20:00 horario peninsular español. La Ronda 1 dará comienzo el primer sábado de competición (después de la jornada 4 de liga).
+
+### ¿Cómo funciona la competición de la Icup?
+A esta competición se accede de la siguiente forma:
+- Los que hayan quedado en la posición 5º,6º,7º,8º,9º y 10º en los Playoffs Nacionales entran directamente en la Ronda de 16 avos.
+- Los que hayan quedado en la posición 11º,12º,13º,14º en los Playoffs Nacionales entrarán en la Ronda 1 o Ronda Previa.
+La Ronda 1 enfrentará a los que hayan quedado en la posición 11º contra los que hayan quedado en la posición 14º, del mismo modo los de la posición 12º jugarán contra los que hayan quedado en la posición 13º. Este sorteo será puro, por lo que si has quedado en la posición 11º te podrá tocar cualquiera que haya quedado en el puesto 14.
+Esta Ronda 1 dará comienzo el primer sábado de competición (después de la jornada 4 de liga) y se jugará a 1 solo partido.
+- Los ganadores de esta Ronda 1 pasarán a 16avos, donde se jugará la eliminatoria a doble partido.
+- Los 16avos, Octavos, Cuartos y Semifinal se jugarán a doble partido.
+- La Final se jugará a partido único.
+Aquellas eliminatorias a doble partido la taquilla será del 100% para el equipo que juegue en casa, del mismo modo cuando se juegue a partido único se repartirá la taquilla al 50% entre ambos equipos,
+Los Trofeos para el Campeón y Subcampeón:
+Los Premios serán al igual que en otras Competiciones, dependientes del Nivel:
+El gasto de energía será igual que en la BPCCup, es decir, la mitad que en Liga y los no convocados no recuperarán energía.
+El calendario será miércoles y sábados a las 20:00 horario peninsular español. La Ronda 1 dará comienzo el primer sábado de competición (después de la jornada 4 de Liga).
+
+### Un poco de mantenimiento por favor
+Comenzando con que es un juego gratuito y no se puede apretar mucho, decir que hay algunas cosas a echar un vistazo... 
+El tema entrenadores de rookies necesita una buena revisión, no hay, son viejos, caros y malos. 
+Las subidas o bajadas de stats en el cambio de temporada, da lo mismo lo que jueguen o hagan que cuando son de una categoría alta los jugadores se estancan o bajan stats. 
+No veo normal que cada vez que se renueva un jugador o staff haya que pagar íntegro su sueldo, se va una barbaridad de dinero. 
+Más cosas pero no quiero dar mucho la turra y no se si irá a algún lado esto. 
+Ojalá algún día una buena revisión al juego porque si funciona mejor la gente pagaría como hemos echo muchos los bpoint, un saludo
+
+### ¿En qué influye subir de nivel mi equipo?
+Subir de nivel influye sobre todo en que podrás ir poniendo taquillas cada vez más caras, recibirás mejores sponsors y podrás tener mayor número. Os dejamos aquí parte de esos beneficios:
+1.- Taquilla
+2.- Sponsors
+Según el nivel que tenga tu equipo y el tipo de sponsors podrá ir teniendo más sponsors. En el nivel 2 ya puedes tener 2 regionales y los sponsors pueden incluso doblar las cantidades del nivel 1.
+Más adelante se irán metiendo más funcionalidades asociadas a los niveles.
+Caso real de Sponsor Main nivel 1 y nuevo de nivel 2
+3.- Entrenadores
+Conforme subes de nivel se desbloquean las distintas opciones con los entrenadores.
+En el faq podéis encontrarlo pero os hacemos un pequeño resumen.
+Entrenador Principal:
+Nivel mínimo:
+   Número máximo: 1
+Entrenador Secundario:
+   Nivel mínimo:
+   Número máximo: 1
+   Nivel mínimo: 
+   Número máximo: 2
+   Nivel mínimo:
+   Número máximo: 3
+Entrenador Rookies:
+   Nivel mínimo:
+   Número máximo: 1
+   Nivel mínimo:
+   Número máximo: 2
+   Nivel mínimo:
+   Número máximo: 3
+
+[respuesta] Update info con entrenadores
+
+### ¿Qué salario tienen aproximadamente los jugadores?
+Para que sepais aproximadamente por donde se mueve el tema de los salarios os dejo una tabla de cuál es el salario mínimo que pedirá un jugador según su nivel
+
+[respuesta] admin said:
+			Para que sepais aproximadamente por donde se mueve el tema de los salarios os dejo una tabla de cuál es el salario mínimo que pedirá un jugador según su nivel
+View attachment 372
+Pienso que si esos serían aproximadamente los salarios de los jugadores más del 80% de los equipos estaría mal económicamente.  No sería bueno que le des una vuelta a los sponsors para generar más ingresos. Porque viendo los precios de los entrenadores ( abria que tener 2) y que todos cobren sus salarios todos los dias yo en mi caso no voy a llegar muy lejos. Es lo que se me viene rápidamente.
+
+[respuesta] martinchot said:
+			Pienso que si esos serían aproximadamente los salarios de los jugadores más del 80% de los equipos estaría mal económicamente.  No sería bueno que le des una vuelta a los sponsors para generar más ingresos. Porque viendo los precios de los entrenadores ( abria que tener 2) y que todos cobren sus salarios todos los dias yo en mi caso no voy a llegar muy lejos. Es lo que se me viene rápidamente.
+Conforme vayais subiendo de nivel los sponsors casi duplican sus cantidades... estaremos atentos para que no lo paséis mal, mientras centraros en competir y en subir de nivel
+
+### ¿Dependen los ingresos, sponsors etc de la división donde me encuentre?
+NO, dependen de tu nivel.
+Un equipo de Nivel 1 tendrá menos ingresos que uno de Nivel 5  (por ejemplo).
+
+[respuesta] ¿hay algún sitio en el que se puede ver directamente en que nivel estas y donde?
+
+[respuesta] Puede ser ese gran Número 1 ????
+
+### ¿Cómo subo de Nivel?
+El nivel de cada equipo dará entre otras la posibilidad de poner las entradas más caras. Para ello será necesario cumplir algunas condicioneS:
+- Categoría de tu mejor jugador
+- Media del equipo
+- Aforo mínimo
+- Parking mínimo
+
+[respuesta] Una duda, ¿el cambio de nivel es automático con el reset? porque creo que cumplo los requisitos que he leído más arriba y mi equipo, Acunados, sigue en nivel 1.
+						Basketpc - Juego de Baloncesto Online- Se el manager de un equipo de Basket
+					www.basketpc.com
+
+[respuesta] Bonetti said:
+			Una duda, ¿el cambio de nivel es automático con el reset? porque creo que cumplo los requisitos que he leído más arriba y mi equipo, Acunados, sigue en nivel 1.
+						Basketpc - Juego de Baloncesto Online- Se el manager de un equipo de Basket
+					www.basketpc.com
+Los parámetros se actualizan con el cambio de día, esta noche en el paso del sábado al domingo deberías subir de nivel.
+
+### ¿Cuantos jugadores se pueden tener en plantilla?
+Mínimo 8, Máximo 20. Si llegas al cambio de temporada y te quedas con menos de 8 jugadores perderás el equipo.
+
+### ¿A que edad se retira un jugador?
+No hay una fecha fija, pero desde los 34 años la probabilidad de que se retire será mayor cada año. Eso sí, si llega a los 40 años esa será su última temporada ya que es el límite máximo.
+There isn't a fixed date, but since 34 years the probability is rising every year. 40 is the maximun age.
+
+### ¿Cada cuántas semanas cumple año un jugador?
+Cada 42 semanas (días reales) un jugador cumple un año en el juego.
+
+### ¿Cómo pierde o gana Energía un jugador?
+Un jugador gana energía cuando no es convocado a un partido oficial y la pierde cuando lo es. Sin embargo la cantidad de Energía que gana o pierde dependerá de cuanto tiempo haya jugado y de como haya acabado de energía el partido, así mismo cuanta mayor sea la Resistencia del jugador más lentamente perderá energía durante el partido. Obviamente si ha jugado poco en un partido perderá menos energía que si ha jugado mucho.
+
+### ¿Qué significa la categoría del jugador?
+La categoría del jugador indica el nivel de un jugador. Existen los siguientes niveles de menor a mayor:
+H
+G
+F
+E
+D
+C
+B
+A
+S
+S+
+Cada categoría implica unos límites salariales y de cláusula particulares que el jugador reclamará en cada renovación.
+
+### ¿Qué ocurre si me quedo con menos de 5 jugadores en pista?
+Si te quedas con menos de 5 jugadores en pista perderás el partido. Si en ese momento ibas ganando el partido lo perderías por 2-0. Si en ese momento ibas perdiendo el partido se para con el tanteo que se llevara en ese momento
+
+[respuesta] Tengo una duda, si te expulsan  un jugador por personales, pierdes el partido?
+
+[respuesta] Si no tienes nadie que pueda salir desde el banquillo porque o no tienes a nadie o están todos expulsados, entonces te quedarías con 4 en pista y perderías el partido.
+
+### ¿Cada cuanto tiempo se le paga la ficha al jugador?
+Todos los jugadores, staff y empleados del club cobran lo marcado en su ficha diariamente.
+
+### ¿Cuántos años de contrato como máximo puede tener un jugador?
+5 años es el máximo por contrato. Cada contrato es nuevo, es decir, no se acumulan los años en el mismo. Si tienes un jugador con tres años de contrato y le haces uno nuevo por 2 años, el contrato final será de 2 años, no de 5 (3+2).
+
+### ¿Qué significa el precio de venta?
+El precio de venta o la cláusula es el precio que tienes fijado para el jugador. Si alguien paga íntegramente esa cláusula no podrás declinar la oferta y todo dependerá de si el jugador acepta la oferta del otro equipo, si lo hace se irá traspasado.
+
+### ¿Qué significa la pestaña evolución dentro de la ficha del jugador?
+Esta pestaña almacena la información de los stats de todas las temporadas del jugador. De esa forma podrás ver si su evolución es positiva o por el contrario se ha quedado estancado.
+
+### ¿Puedo personalizar a un jugador?
+Sí, puedes cambiar el nombre, la posición o la apariencia a un jugador con el editor de rostros, incluso recuperarlo si lo has perdido en el cambio de temporada. Para ello debes ir a la ficha del jugador y en la pestaña "Configurar" accederás a todas estas opciones.
+
+### ¿Cómo se contrata un entrenador?
+Tienes que dirigirte al Menú MERCADO -> FICHAR Y ahí en la parte superior verás una opción que pone "Staff Coach". Una vez dentro utiliza los filtros para seleccionar el tipo de entrenador y los valores que buscas en ellos, luego pincha en FIND (Encontrar) y te aparecerán los entrenadores que concuerden con tu búsqueda.
+
+### ¿Para qué sirve cada tipo de entrenador?
+El entrenador principal sirve para entrenar de manera general a tus jugadores y sólo podrás tener 1. Entrenará a toda la plantilla.
+El entrenador secundario o específico es el que te permite individualizar el entrenamiento de un jugador concreto. Cada entrenador secundario sólo puede entrenar a un jugador y podrás tener distintos entrenadores secundarios conforme tu equipo aumente de nivel.
+El entrenador de rookies es similar al secundario, pero para los rookies que tengas en formación.
+Los Fisioterapéutas sirven para recuperar energía a tus jugadores.
+P.D: Salvo los fisioterapéutas que no te los pueden comprar una vez están en tu equipo, el resto de miembros del Staff sí pueden ser recomprados por otro equipo pagando íntegramente la cláusula. Sin embargo el equipo que vende no recibirá el importe total de dicha cláusula sino sólo una parte, en concreto se le ingresará el importe correspondiente a la cláusula original que tenía el entrenador cuando salió al mercado. Tenlo presente cuando fiches uno para evitar clausulazos no deseados.
+
+### ¿Cuantos entrenadores puedo tener?
+Puedes tener entrenadores según su tipo y el nivel de tu equipo. 
+El nivel mínimo es el del equipo y el número máximo hace referencia al número de entrenadores que se pueden tener como tope.
+* Entrenador Principal: 
+Nivel mínimo: 1
+Número máximo: 1
+* Entrenador Secundario:
+Nivel mínimo: 5
+Número máximo: 1
+Nivel mínimo: 6
+Número máximo: 2
+Nivel mínimo: 7
+Número máximo: 3
+* Entrenador Rookies:
+Nivel mínimo: 2
+Número máximo: 1
+Nivel mínimo: 4
+Número máximo: 2
+Nivel mínimo: 6
+ Número máximo: 3
+
+### ¿Los entrenadores se jubilan?
+Sí, la legislación laboral de basketpc no les permite estar más allá de los 60 años. Una vez alcancen esa edad en el cambio de temporada siguiente se retirarán.
+
+### ¿Cuanto cuesta renovar o despedir a un Entrenador?
+Si lo renuevas o lo despides, le tendrás que pagar su salario nuevo. Si lo renuevas/despides por 15.000, se te hará un cargo de 15.000 en el banco por concepto de renovación/despido.
+
+### ¿Cuál es el número máximo y mínimo de jugadores en plantilla?
+El máximo son 20 jugadores y el minímo 8. Si te quedas con menos de 8 jugadores al finalizar la temporada, perderás el equipo
+Min 8, Max 20. if you get to the change of season and you have less than 8 players then you will lose the team.
+
+### ¿Cuántos jugadores puede entrenar un Entrenador Principal?
+Puede entrenar a toda la plantilla si así lo deseas.
+
+### ¿De qué depende el aumento del % de entrenamiento en un jugador?
+Dependerá del valor de su actual stat y el del mismo stat del entrenador. Por ejemplo, si vas a entrentar tiro y tu jugador tiene T:110, T2: 50 y T3: 90 y el entrenador tiene T1:90, T2:90 y T3:90 la subida que tendrá el jugador en el stat de T1 será mucho mayor que la que tenga en T2 y éste a su vez subirá más que la de t3.
+A mayor diferencia positiva entre el stat del entrenador y el del jugador, mayor serán las subidas, y a la inversa.
+
+### ¿Qué son los Entrenamientos Gratis y cómo se consiguen?
+Los entrenamientos Gratis son un premio que se consiguen a final de temporada y que te permiten sin coste alguno aplicar tantos entrenamientos como los que hayas conseguido de manera instantánea a los jugadores que quieras.
+Si, por ejemplo, tienes 4 entrenamientos gratis y los quieres usar todos en el mismo jugador no tendrás inconvenientes, del mismo podrás repartidos entre varios jugadores si así lo deseas.
+Dependiendo de tu posición final en Liga obtendrás más o menos entrenamientos gratis, para saber cuantos entrenamientos te corresponden visita la Tabla de Premios que se encuentra en el Menú CAMPEONATO -> CLASIFICACIÓN FINAL.
+
+### ¿Qué significan cada una de las columnas dentro de las estadísticas?
+Co: Competición
+Se: Temporada
+Ga: Partidos
+T3: Tiro de 3
+%T3: Porcentaje tiro de 3
+T2: Tiro de 2
+%T2: Porcentaje tiro de 2
+T1: Tiro de 1
+%T1: Porcentaje tiro de 1
+Off Reb: Rebotes Ofensivos
+Def Reb: Rebotes Defensivos
+Assi: Asistencias
+Turn Over: Balones perdidos
+Steal: Robos
+Block: Tapones
+Foul: Faltas
+DD: Doble-Doble
+TD: Triple-Doble
+
+### ¿Qué es el palmarés?
+Es el Historial de tu equipo en la distintas competiciones. En la visión en DETALLE podrás ver los trofeos asi como el número de ellos que tienes, en la visión en GRID saldrá un desglose de tus resultados en Liga y Copa asi como de la posición conseguida y la fecha de cuando fueron obtenidos.
+
+### ¿Qué son los Rookies por Subasta y cómo los ficho?
+Para pujar por un Rookie en Subasta debes ir al Menú MERCADO -> FICHAR y pinchar arriba en la opción "Rookies". Una vez hayas elegido por que rookie/es quieres pujar sólo tienes que realizar la oferta, los sábados al mediodía (12:00 hora española peninsular) los rookies con ofertas decidirán a qué equipo se van.
+La oferta debe ser como mínimo el Precio de Venta marcado. Una vez adquirido tendrá un coste diarío definido en el campo "Coste de Entrenamiento".
+Ejemplo:
+Precio de Venta: 102.000
+Salario: 0
+Cote de Entrenamiento: 500
+Nº Ofertas: 0
+
+### ¿Cuantos rookies puedo entrenar al mismo tiempo?
+Cada entrenador de rookies entrena sólo y exclusivamente a un rookie. Eso quiere decir que al mismo tiempo y dependiendo del nivel de tu equipo podrás tener de 1 a 4 rookies entrenando a la vez.
+El número máximo de rookies que se pueden tener según el nivel es:
+Level 1:  0 rookies (0 entrenadores de rookies)
+Level 2 a 3 : 2 rookies (Sólo 1 entrenador de rookies )
+Level 4 a 5: 3 rookies ((2 entrenadores de rookies)
+Level 6 a 10: 4 rookies (3 entrenadores de rookies)
+De esta forma si tienes el máximo de entrenadores de rookies según tu nivel y el número máximo de rookies según tu nivel... tendrás siempre uno sin entrenar.
+El número de rookies que se tienen, más el número de ofertas lanzadas, NUNCA podrán superar el máximo de rookies permitidos. De esta forma si eres LEVEL 5 y tienes 1 rookie, podrás realizar 2 ofertas de rookies a la vez, no más.
+
+### ¿Cuando puedo promocionar un rookie?
+Los rookies pueden entrenar y crecen hasta los 18 (0) años aunque a partir de 16 (0) años los puedes promocionar al primer equipo. Una vez que cumplan los 18 (0) años dejarán de aplicarse entrenos (tampoco los puntos gratuitos por rookie) y sólo podrás promocionarlo.
+
+### ¿Qué es el coste de entrenamiento de un Rookie?
+Es el coste de tener al rookie en la cantera, entrene o no entrene. Diariamente te aplicarán un cargo con el importe que marque en la ficha del jugador.
+
+### ¿A qué hace referencia el dato "Número de Ofertas" de un rookie?
+Un rookie libre puede recibir ofertas de distintos clubes,  si recibe más de una tendrá que decidir entre ellas. El número de ofertas indica precisamente cuántos clubes le han presentado una oferta y por lo tanto la competencia que existe para poder contar con sus servicios finalmente.
+Es un buen indicador para saber si tienes que arriesgar más en la oferta que le presentes o no.
+
+### ¿Cuál es el máximo y el mínimo número de convocados?
+El máximo  son 12 y el  mínimo son 8
+Cuidado que como te quedes con menos de 5 jugadores en pista perderás el partido.
+
+### ¿Qué tipo de premios hay?
+En principio hay 4 tipos de premios:
+1.- Entrenamientos extra de jugadores
+Sirven para poder aplicar entrenos adicionales a jugadores de tu plantilla. Podrás seleccionar el jugador/es sobre los que se aplican.
+2.- Entrenamientos extra rookies
+Sirven para poder aplicar entrenos adicionales a rookies en formación de tu plantilla. Podrás seleccionar al rookie/es sobre los que se aplican.
+3.- Supporter
+Días gratuitos como supporter. Tendrás acceso a opciones especiales.
+4.- Premios económicos
+Son premios que se sumarán al saldo de tu equipo. Debes canjearlos manualmente durante la Temporada, si no los perderás una vez llegue el siguiente reset.
+
+### ¿Qué es el cambio de temporada?
+Al finalizar los Playoff se hace un cambio de Temporada (Reset) donde se realizan los ascensos/descensos, la progresión de los jugadores, el reparto de los premios, etc... y se inicia la siguiente Temporada.
+Es uno de los eventos más importantes del Universo Basketpc y de los más emocionantes, porque es el resultado de todo el trabajo de la Temporada; ¿Habrá crecido tu mejor jugador? ¿Habrá perdido stats? ...
+
+### ¿Cuándo se adjudican los premios?
+Los premios económicos por Clasificación Final se adjudican en el cambio de temporada, los premios de Copa en cambio se adjudican una vez termina la Final.
+
+### ¿Cómo se canjean los premios?
+Los entrenamientos gratuitos de jugadores en la sección del menú EQUIPO --> ENTRENAMIENTO verás en cada ficha de jugador una opción para aplicar/canjear el premio.
+Los entrenamientos gratuitos de rookies en la sección del menú ROOKIES, verás en cada ficha de rookie una opción para aplicar/canjear el premio.
+Los premios de supporter y económicos en la sección EQUIPO --> CAMBIO DE TEMPORADA. Sólo debes pulsar en canjear.
+
+### ¿Cómo puedo ver la plantilla de la última temporada?
+En el menú EQUIPO-->CAMBIO DE TEMPORADA hay una opción para ver la plantilla de la última temporada, se llama "Players Last Season" arriba a la derecha, pincha sobre ella y accederás a tu plantilla tal y como era antes del último reset.
+
+### ¿Cómo recupero a mi jugador perdido?
+Si pierdes un jugador en el cambio de temporada por no renovarlo puedes acceder a la ficha del jugador y en la pestaña CONFIGURACIÓN tendrás la opción de recuperarlo. Cuidado, sólo podrás recuperarlo si sigue libre y tendrá un coste de 2 BPoints.
+Si no recuerdas como se llamaba puedes buscarlo dentro del propio Menu de "Cambio de Temporada", arriba a la derecha verás una opción que pone "Players Last Season", si pinchas podrás acceder a tu plantilla tal y como era antes del reset, por lo que podrás encontrar a tu jugador no renovado y recuperalo pagando los BPoints mencionados.
+
+### ¿Cómo convoco o desconvoco jugadores?
+En el menú PARTIDO --> CONVOCADOS verás dos tipos de vistas. DETALLE, que muestra la ficha de los jugadores y TABLA que muestra los jugadores en una tabla con información más resumida. 
+Si estás en el Detalle sólo tendrás que pulsar en el botón CONVOCAR de la ficha del jugador para poder utilizarlo en el partido o DESCONVOCAR para que no asista al mismo.
+Si estás en la vista de Tabla, tienes varias opciones para convocar / desconvocar:
+1.- Convocas a un jugador sustituyendo a otro
+Pinchas en un jugador, se iluminará y luego pulsas el otro. En ese momento se realiza el cambio de posición de un jugador por otro.
+2.- Convocas a un jugador nuevo
+Pinchas en el jugador que quieres convocar y luego pulsas en la fila que contiene este texto_<<Pincha aqui para CONVOCAR/DESCONVOCAR>>
+En ese momento el jugador pasa a la lista de convocados.
+3.- Desconvocas a un jugador
+La mecánica es la misma que en el punto 2. Pinchas en el jugador que no quieres tener convocado y luego en la fila que contiene el texto << Pincha aquí para CONVOCAR/DESCONVOCAR>>
+En ese momento el jugador pasa a la lista de no convocado.
+
+### ¿Cómo se contrata un rookie?
+Vete a mercado y fichar. Verás rookies con un precio de venta. Para ficharlo tienes que hacer una oferta. Los Sabados los rookies deciden entre todas las ofertas que tienen y eligen al equipo que consideran oportuno.
+Las ofertas son secretas, por lo que solo podrás ver el número de ofertas que tiene un determinado rookie.
+
+[respuesta] pregunta cuando acepta mi oferta y ya esta en mi equipo, si no tengo entrenador de rookies el jugador evoluciona solo o tengo que tener obligado el entrenador?
+
+[respuesta] Necesitas un entrenador
+
+### ¿Crecen los rookies?
+Sí, los rookies crecen hasta los 18 años. Además cogen peso. Evidentemente cuanto más alto fiches a un rookie de inicio más probabilidad sea que sea alto cuando termine su etapa de formación.
+
+[respuesta] Crecer en altura supongo..  esto es un juagdor rokie de 15 años con 1,95m, se supone q llegara a mas de 2m..o hay alguna regla q diga cuanto..  lo digo por si aqui tb interviene el tema de rebotes solo para mas de 2m.
