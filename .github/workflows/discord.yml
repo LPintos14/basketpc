@@ -1,0 +1,35 @@
+name: Enviar resúmenes a Discord
+
+on:
+  push:
+    branches: [main]
+    paths: ["docs/**.md"]
+  workflow_dispatch: # botón para enviar todo a mano desde la pestaña Actions
+
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Enviar archivos al canal
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK" ]; then
+            echo "Falta el secreto DISCORD_WEBHOOK en Settings > Secrets and variables > Actions"; exit 1
+          fi
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || ! git rev-parse -q --verify HEAD~1 >/dev/null; then
+            files=$(ls docs/*.md)
+            msg="📚 Resúmenes de BasketPC (envío completo)"
+          else
+            files=$(git diff --name-only HEAD~1 HEAD -- 'docs/*.md' | while read f; do [ -f "$f" ] && echo "$f"; done)
+            msg="📝 Resúmenes actualizados: $(git log -1 --pretty=%s)"
+          fi
+          [ -z "$files" ] && { echo "Nada que enviar"; exit 0; }
+          args=(); i=0
+          for f in $files; do args+=(-F "file$i=@$f"); i=$((i+1)); done
+          payload=$(jq -n --arg c "$msg" '{content: $c}')
+          curl -sS --fail-with-body -F "payload_json=$payload" "${args[@]}" "$DISCORD_WEBHOOK"
