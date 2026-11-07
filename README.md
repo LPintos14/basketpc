@@ -25,6 +25,7 @@ Foro oficial: <https://forum.basketpc.com/>
 
 ## Documentos
 
+- **[Primeros 10 pasos](docs/guia-primeros-pasos.md): empezar por acá.**
 - [Resumen del juego](docs/resumen-reglas.md): reglas y mecánicas condensadas.
 - [Lo que dice el foro](docs/resumen-foro.md): simulador, evolución de jugadores, consejos y estado del juego.
 - [FAQ del foro (texto completo)](fuentes/faq-foro.txt): fuente original extraída.
