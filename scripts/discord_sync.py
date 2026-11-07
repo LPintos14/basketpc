@@ -134,6 +134,9 @@ def pedir(metodo, url, cuerpo=None):
                 continue
             if e.code == 404 and metodo in ("PATCH", "DELETE"):
                 return "404"
+            if "220003" in txt:
+                sys.exit("El webhook apunta a un canal de texto. Movelo a un canal de tipo FORO "
+                         "(Discord > Ajustes del servidor > Integraciones > Webhooks) y volvé a correr.")
             raise RuntimeError(f"{metodo} -> {e.code}: {txt}") from None
     raise RuntimeError("Demasiados reintentos por límite de Discord")
 
