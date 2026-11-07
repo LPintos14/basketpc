@@ -8,7 +8,10 @@ Guía para pasar de "recién registrado" a "equipo establecido": nivel 2 o 3, ec
 
 ## Paso 1. Elegir el momento y entrar juntos
 
-- **Registrarse justo después de un reset** (fin de temporada, suele ser un viernes a la noche).
+- **Registrarse justo después de un reset** (fin de temporada).
+  - Cada temporada dura **42 días** y el reset es el **viernes a la noche** (hora de España).
+  - **Próximos resets (estimados):** viernes 13/11/2026 (arranca la temporada 63 el sábado 14/11), viernes 25/12/2026 y viernes 5/2/2027.
+  - Son estimaciones a partir del ciclo; conviene confirmarlas en Discord.
   - Cuanto más avanzada está la temporada, menos energía traen tus jugadores: 98–99 la primera semana, 82–85 la sexta.
 - **Los dos en la misma semana**, así avanzan a la par.
 - **El segundo se registra con el link de referido del primero.**
